@@ -1,0 +1,62 @@
+.button {
+  background-color: #D4D4D2;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.button1 {border-radius: 80%;}
+.button2 {border-radius: 80%;}
+.button3 {border-radius: 80%;}
+.button4 {border-radius: 80%;}
+.button5 {border-radius: 80%;}
+.button6 {border-radius: 80%;}
+.button7 {border-radius: 80%;}
+
+.free { background-color: black;
+		color: white;
+		position: absolute;
+		top: 0px;
+		right: 15px;
+		margin: 2px;
+		padding: 2px;
+}
+.trending { background-color: black;
+		color: white;
+		position: absolute;
+		top: 0px;
+		right: 15px;
+		margin: 2px;
+		padding: 2px;
+}
+.discount { background-color: black;
+		color: white;
+		position: absolute;
+		top: 0px;
+		right: 15px;
+		margin: 2px;
+		padding: 2px;
+}
+.ace { margin-left: 20px;
+	   margin-top: 30px;
+ }
+.order { margin-left: 180px;
+	   margin-top: 20px;
+	   margin-bottom: 30px;
+ }
+ .list { margin-left: 215px;
+	   margin-top: 30px;
+	   margin-bottom: 20px;
+	   width: 25%;
+ }
+  .drop { margin-left: 180px;
+	   margin-top: 30px;
+	   margin-bottom: 20px;
+ }
+
+
+
+ 
